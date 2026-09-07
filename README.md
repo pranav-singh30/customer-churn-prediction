@@ -55,13 +55,28 @@ Tenure vs Churn
 ![Tenure vs Churn](graph4_tenure_vs_churn.png)
 
 🚀 How to Run This Project
-Clone this repository: git clone https://github.com/pranav-singh30/customer-churn-prediction.git
+
+1. Clone this repository
+
+bash
+git clone https://github.com/pranav-singh30/customer-churn-prediction.git
 cd customer-churn-prediction
-Create and activate a virtual environment: python -m venv venv
-venv\Scripts\activate # Windows
-source venv/bin/activate # Mac/Linux
-Install dependencies: pip install -r requirements.txt
-Run the web app: streamlit run app.py
+
+2. Create and activate a virtual environment
+
+bash
+python -m venv venv
+venv\Scripts\activate
+
+3. Install dependencies
+
+bash
+pip install -r requirements.txt
+
+4. Run the web app
+
+bash
+streamlit run app.py
 📁 Project Structure
 customer_churn_prediction/
 ├── churn_data.csv
@@ -93,5 +108,7 @@ Deploy the app on Streamlit Cloud
 👤 Author
 
 Pranav Singh
+
 GitHub: @pranav-singh30
+
 Built as part of a hands-on Machine Learning learning project.
