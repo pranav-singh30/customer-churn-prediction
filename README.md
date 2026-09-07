@@ -36,18 +36,32 @@ Random Forest (Final)	77.36%	81%
 
 Random Forest was selected as the final model despite slightly lower accuracy, because it correctly identifies significantly more customers who are actually going to churn — which is more valuable for a real-world retention strategy.
 
+📊 Exploratory Data Analysis
+
+Churn Distribution
+
+![Churn Distribution](graph1_churn_distribution.png)
+
+Contract Type vs Churn
+
+![Contract Type vs Churn](graph2_contract_vs_churn.png)
+
+Monthly Charges vs Churn
+
+![Monthly Charges vs Churn](graph3_monthlycharges_vs_churn.png)
+
+Tenure vs Churn
+
+![Tenure vs Churn](graph4_tenure_vs_churn.png)
+
 🚀 How to Run This Project
-Clone this repository: git clone https://github.com/YOUR_USERNAME/customer-churn-prediction.git
+Clone this repository: git clone https://github.com/pranav-singh30/customer-churn-prediction.git
 cd customer-churn-prediction
 Create and activate a virtual environment: python -m venv venv
 venv\Scripts\activate # Windows
 source venv/bin/activate # Mac/Linux
 Install dependencies: pip install -r requirements.txt
 Run the web app: streamlit run app.py
-📸 Screenshots
-
-(Add screenshots of your graphs and the Streamlit app here)
-
 📁 Project Structure
 customer_churn_prediction/
 ├── churn_data.csv
@@ -79,4 +93,5 @@ Deploy the app on Streamlit Cloud
 👤 Author
 
 Pranav Singh
+GitHub: @pranav-singh30
 Built as part of a hands-on Machine Learning learning project.
