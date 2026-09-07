@@ -65,17 +65,21 @@ git clone [https://github.com/pranav-singh30/customer-churn-prediction.git](http
 cd customer-churn-prediction
 Create and activate a virtual environment
 
+2. **Create and activate a virtual environment**
 Bash
 python -m venv venv
 venv\Scripts\activate
 Install dependencies
 
+3. **Install dependencies**
 Bash
 pip install -r requirements.txt
 Run the web app
 
+4.**Run the web app**
 Bash
 streamlit run app.py
+
 📁 Project Structure
 Plaintext
 customer_churn_prediction/
@@ -100,6 +104,7 @@ customer_churn_prediction/
 ├── graph3_monthlycharges_vs_churn.png
 ├── graph4_tenure_vs_churn.png
 └── README.md
+
 🔮 Future Improvements
 Hyperparameter tuning using GridSearchCV
 
