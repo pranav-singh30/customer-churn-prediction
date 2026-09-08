@@ -57,7 +57,7 @@ Customer churn is a major challenge for subscription-based businesses. Identifyi
 **Tenure vs Churn**  
 ![Tenure vs Churn](graph4_tenure_vs_churn.png)
 
- Customer Churn Prediction
+ # Customer Churn Prediction
 
 ## 🚀 How to Run This Project
 
