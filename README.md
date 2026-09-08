@@ -82,8 +82,8 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
-📁 Project Structure
-Plaintext
+## 📁 Project Structure
+```Plaintext
 customer_churn_prediction/
 ├── churn_data.csv
 ├── churn_cleaned.csv
@@ -106,6 +106,7 @@ customer_churn_prediction/
 ├── graph3_monthlycharges_vs_churn.png
 ├── graph4_tenure_vs_churn.png
 └── README.md
+```
 
 🔮 Future Improvements
 Hyperparameter tuning using GridSearchCV
