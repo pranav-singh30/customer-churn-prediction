@@ -109,7 +109,8 @@ customer_churn_prediction/
 └── README.md
 ```
 
-🔮 Future Improvements
+## 🔮 Future Improvements
+
 Hyperparameter tuning using GridSearchCV
 
 Try additional models (XGBoost, Gradient Boosting)
@@ -118,9 +119,9 @@ Handle class imbalance with SMOTE
 
 Deploy the app on Streamlit Cloud
 
-👤 Author
-Pranav Singh
+## 👤 Author
+**Pranav Singh**
 
-GitHub: @pranav-singh30
+GitHub: [@pranav-singh30](https://github.com/pranav-singh30)
 
-Built as part of a hands-on Machine Learning learning project
+*Built as part of a hands-on Machine Learning learning project.*
