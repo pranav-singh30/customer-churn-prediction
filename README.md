@@ -66,18 +66,18 @@ cd customer-churn-prediction
 Create and activate a virtual environment
 
 2. **Create and activate a virtual environment**
-Bash
+```Bash
 python -m venv venv
 venv\Scripts\activate
 Install dependencies
 
 3. **Install dependencies**
-Bash
+```Bash
 pip install -r requirements.txt
 Run the web app
 
 4.**Run the web app**
-Bash
+```Bash
 streamlit run app.py
 
 📁 Project Structure
