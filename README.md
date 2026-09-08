@@ -57,28 +57,31 @@ Customer churn is a major challenge for subscription-based businesses. Identifyi
 **Tenure vs Churn**  
 ![Tenure vs Churn](graph4_tenure_vs_churn.png)
 
+ Customer Churn Prediction
+
 ## 🚀 How to Run This Project
 
-1. **Clone this repository**
+### 1. Clone this repository
 ```bash
-git clone [https://github.com/pranav-singh30/customer-churn-prediction.git](https://github.com/pranav-singh30/customer-churn-prediction.git)
+git clone https://github.com/pranav-singh30/customer-churn-prediction.git
 cd customer-churn-prediction
-Create and activate a virtual environment
+```
 
-2. **Create and activate a virtual environment**
-```Bash
+### 2. Create and activate a virtual environment
+```bash
 python -m venv venv
 venv\Scripts\activate
-Install dependencies
+```
 
-3. **Install dependencies**
-```Bash
+### 3. Install dependencies
+```bash
 pip install -r requirements.txt
-Run the web app
+```
 
-4.**Run the web app**
-```Bash
+### 4. Run the web app
+```bash
 streamlit run app.py
+```
 
 📁 Project Structure
 Plaintext
